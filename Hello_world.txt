@@ -8,4 +8,5 @@ uploaded on jenkins successfully, trying to build build 2
 trying to understand checkout
 from airoli
 
+Updating from git hub and trying to see the changes in local git repository
 >>>>>>> 029e94ab671e4501107038b0876471791a28d95d
