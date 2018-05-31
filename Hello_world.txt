@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 import
+=======
+this is my first import to jenkins 2.4. 
+changed at home expecting to upload
+uploaded on jenkins successfully, trying to build build 2
+>>>>>>> 029e94ab671e4501107038b0876471791a28d95d
